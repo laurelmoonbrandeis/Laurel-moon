@@ -4,7 +4,7 @@
 
 backend:
   name: github
-  repo: YOUR-GITHUB-ORG/laurel-moon # TODO: the club's GitHub organization and repository
+  repo: laurelmoonbrandeis/Laurel-moon
   branch: main
   commit_messages:
     create: 'Add {{collection}} "{{slug}}"'
@@ -21,8 +21,8 @@ local_backend: true
 # from Drafts to In review to Ready in the Workflow tab, then click Publish.
 publish_mode: editorial_workflow
 
-site_url: https://www.example.org # TODO: the club's domain
-display_url: https://www.example.org # TODO: the club's domain
+site_url: https://laurelmoonmag.com
+display_url: https://laurelmoonmag.com
 logo_url: /assets/img/logo.svg
 
 # Where uploaded images and PDFs are stored.
