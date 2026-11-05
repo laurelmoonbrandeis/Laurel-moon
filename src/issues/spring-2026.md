@@ -3,18 +3,19 @@ title: Spring 2026
 date: 2026-04-24
 subtitle: "[Issue theme or subtitle, if there is one]"
 editors: "[Editor-in-chief names]"
-intro: "[Two or three sentences introducing this issue: its themes, its contributors, and what readers will find inside.]"
+intro: "[Two or three sentences introducing this issue: its themes, its
+  contributors, and what readers will find inside.]"
 cover_image: ""
 cover_alt: ""
 cover_color: slate
 moon_phase: crescent
 pdf: ""
 pieces:
-  - title: "Laundry, 1 a.m."
+  - title: Laundry, 1 a.m.
     author: "[Poet name]"
     school: "[School]"
     genre: Poetry
-    featured: true
+    featured: false
     text: |-
       The dryer turns its one slow moon
       behind the glass. I sit on the folding table
@@ -29,7 +30,8 @@ pieces:
       The buzzer goes. Everything I own
       comes out a little smaller, a little closer,
       and I carry it up the stairs like something lit.
-    bio: "[A two- or three-sentence bio, written by the poet: where they study, what they are reading, where else their work has appeared.]"
+    bio: "[A two- or three-sentence bio, written by the poet: where they study, what
+      they are reading, where else their work has appeared.]"
   - title: "[Poem title]"
     author: "[Contributor name]"
     school: "[School]"
@@ -47,15 +49,15 @@ pieces:
 
       [Second paragraph. Leave a blank line between paragraphs.]
     bio: ""
-  - title: "[Artwork title]"
-    author: "[Artist name]"
-    school: "[School]"
-    genre: Art
-    featured: false
-    image: ""
+  - genre: Art
     image_alt: "[Describe the artwork for readers using screen readers.]"
-    text: "[Optional artist statement or medium, like: Oil on canvas, 2026.]"
     bio: ""
+    author: "[Artist name]"
+    text: "[Optional artist statement or medium, like: Oil on canvas, 2026.]"
+    featured: false
+    school: "[School]"
+    title: "[Artwork title]"
+    image: ""
   - title: "[Poem title]"
     author: "[Contributor name]"
     school: "[School]"
